@@ -1,37 +1,37 @@
 [{"id":"1",
     "isclicked":0,
-    "imgSrc": "1"
+    "imgSrc": "/images/Amazon.PNG"
   },
   {"id":"2",
     "isclicked":0,
-    "imgSrc": "2"
+    "imgSrc": "/images/CocaCola.PNG"
     },
     {"id":"3",
     "isclicked":0,
-    "imgSrc": "3"
+    "imgSrc": "/images/Facebook.PNG"
   },
   {"id":"4",
     "isclicked":0,
-    "imgSrc": "4"
+    "imgSrc": "/images/GE.PNG"
   },
   {"id":"5",
     "isclicked":0,
-    "imgSrc": "5"
+    "imgSrc": "/images/Google.PNG"
   },
   {"id":"6",
     "isclicked":0,
-    "imgSrc": "6"
+    "imgSrc": "/images/HP.PNG"
   },
   {"id":"7",
     "isclicked":0,
-    "imgSrc": "7"
+    "imgSrc": "/images/Intel.PNG"
   },
   {"id":"8",
     "isclicked":0,
-    "imgSrc": "8"
+    "imgSrc": "/images/Microsoft.PNG"
   },
   {"id":"9",
     "isclicked":0,
-    "imgSrc": "9"
+    "imgSrc": "/images/Sony.PNG"
   }    
 ]
